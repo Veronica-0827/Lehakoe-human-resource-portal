@@ -1,1 +1,1 @@
-# Lehakoe-human-resource-portal
+# Lehakoe-human-resource management 
